@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="My Resume">
+<title> Matthew Lovell - Resume</title>
+
+
+</head>
+<body>
+	<h1>Matthew Lovell</h1>
+	<h4>Digital Marketing</h4>
+<p>Proven student who has strong leadership skills, motivational drive, and eagerness to learn. </p>
+	<hr>
+	<h3>KEY Skills:</h3>
+	<ul>
+		<li>SEO</li>
+		<li>Google Adwords</li>
+		<li>C Programming</li>
+		<li>Java</li>
+		<li>Social Media Marketing and Analytics</li>
+		<li>Leadership</li>
+		<li>Customer Care</li>
+		<li>Print and Digital Media</li>
+	</ul>
+	<hr>
+	<h3>APPLICATIONS</h3>
+	<ul>
+		<li>Eclipse: Java Development Platform</li>
+		<li>Adobe Creative Suite: Photoshop, Illustrator, InDesign, Premiere and Acrobat</li>
+		<li>Microsoft Office Suite</li>
+	</ul>
+	<hr>
+	<hr>
+</body>
+</html>
